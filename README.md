@@ -35,9 +35,27 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A dialoge or communycacyon to be had at a table betwene two chyldren, gathered out of the holy scrip
+¶A dyspatche of vowes
+and presthode, by the wurd
+of God. Compyled by
+Iohan Bale.
+1. ¶The .c. and .xxx. Psalm
+of Dauid, called De profundis.
+
 #####Body#####
-A dialoge or communycacyon to be had at a table betwene two chyldren, gathered out of the holy scrip
+
+1. A Dialoge or Communicacyon
+to be had at a table betwene .ij.
+chyldren, gathered out of the holy scriptures
+by Iohan Bale for his two yong
+sonnes, Iohan and Paule.
+
+1. ¶A confession of the synner
+after the sacred scrypturs, collected
+by Iohan Bale, at the
+request of a faythfull
+frynde of hys
+
 **Types of content**
 
   * There are 16 **verse** lines!
